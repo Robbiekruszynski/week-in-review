@@ -3,3 +3,7 @@
   background-size: cover;
   text-align: center;
 }
+.col-md-4 {
+background: lightblue;
+background-size: cover;
+}
